@@ -72,6 +72,7 @@ body {
    left: 50%;
    position: absolute;
    top: 50%;
+   /* transition: all 0.5s ease-in; */
    transform-origin: bottom center;
    width: 3px;
 }
